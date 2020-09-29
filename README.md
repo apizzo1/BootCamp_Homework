@@ -10,6 +10,7 @@ This challenge was to analyze previous Kickstarter campaigns to discover possibl
 * A column was added for Percent Funded, which used a formula to calculate how much of the campaign was funded. This column was then formatted to show Red for 0% Funded, transitioning to green if 100% Funded, and switching to Blue at the 200% Funded mark.
 * Another pivot chart was added to compare the state of the campaign (successful, failed, canceled, or live) against time (to deduce if a particular month of the year shows any specific trends).
     * A pivot line chart was used to visualize this data
+* A line chart was also created that gives insight into a goal's amount and its chances at success, failure, or cancellation.
     
 ## About the Data Analysis
 
@@ -17,3 +18,8 @@ A Word file was uploaded containing some insights into the data including:
 * some conclusions we can draw about Kickstarter campaigns
 * some limitations of the dataset
 * some other possible tables/graphs that would be useful to understand this data
+
+## Additional Analyses
+
+* A summary statistics table was created, evaluating the number of backers for successful and unsuccessful campaigns, including mean, median, minimum, maximum, variance, and standard deviation of backers. 
+* An analysis of why the median better summarizes the data is included in the Word document, as well as a discussion of which type of campaign has more variability and why.
