@@ -21,5 +21,5 @@ A Word file was uploaded containing some insights into the data including:
 
 ## Additional Analyses
 
-* A summary statistics table was created, evaluating the number of backers for successful and unsuccessful campaigns, including mean, median, minimum, maximum, variance, and standard deviation of backers. 
+* A summary statistics table was created, evaluating the number of backers for successful and unsuccessful campaigns, including mean, median, minimum, maximum, variance, and standard deviation of backers. Box plots were also created to visualize the data.
 * An analysis of why the median better summarizes the data is included in the Word document, as well as a discussion of which type of campaign has more variability and why.
